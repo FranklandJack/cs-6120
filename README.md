@@ -7,7 +7,7 @@ course.
 The exercises from each lesson are in the relevant lesson directory with
 common utilities in `utils`.
 
-- [ ] [Lesson 1: Welcome & Overview](https://www.cs.cornell.edu/courses/cs6120/2022sp/lesson/1/)
+- [x] [Lesson 1: Welcome & Overview](https://www.cs.cornell.edu/courses/cs6120/2022sp/lesson/1/)
 - [ ] [Lesson 2: Representing Programs](https://www.cs.cornell.edu/courses/cs6120/2022sp/lesson/2/)
 - [ ] [Lesson 3: Local Analysis & Optimization](https://www.cs.cornell.edu/courses/cs6120/2022sp/lesson/3/)
 - [ ] [Lesson 4: Data Flow ](https://www.cs.cornell.edu/courses/cs6120/2022sp/lesson/4/)
