@@ -1,0 +1,3 @@
+command = "ts2bril {filename} | brili -p"
+output.out = "-"
+output.prof = "2"
